@@ -71,6 +71,3 @@ python local_detection.py
 
 ---
 
-**Now that Project 3 is wrapped up and combined, are you ready for Project 4: The Artistic Edge (Neural Style Transfer)?**** You can adjust the `conf=0.5` parameter in the script to filter out low-probability detections.
-
----
