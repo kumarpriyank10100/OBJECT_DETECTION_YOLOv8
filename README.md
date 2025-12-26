@@ -1,4 +1,4 @@
-# 👁️ Project 3: Real-Time Vision (YOLOv8 Evolution)
+# 👁️ Real-Time Vision (YOLOv8 Evolution)
 
 This project demonstrates the implementation of real-time object detection using **YOLOv8**. It is structured in two distinct phases: moving from a standard local implementation to a sophisticated **Cloud-Native AR Overlay** system.
 
